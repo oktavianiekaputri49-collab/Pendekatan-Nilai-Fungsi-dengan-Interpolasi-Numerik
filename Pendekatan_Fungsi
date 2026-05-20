@@ -1,0 +1,31 @@
+📊 Pendekatan Nilai Fungsi dengan Interpolasi Numerik
+Deskripsi
+Project ini membahas implementasi metode interpolasi numerik untuk melakukan pendekatan nilai fungsi pada titik tertentu berdasarkan data yang diketahui.
+Metode interpolasi digunakan untuk membentuk fungsi pendekatan sehingga nilai yang belum diketahui dapat diperkirakan secara numerik dengan tingkat akurasi yang baik. Perhitungan dilakukan menggunakan Microsoft Excel untuk mempermudah proses analisis dan iterasi.
+
+Metode yang Digunakan
+Interpolasi Numerik
+Pendekatan nilai fungsi
+Polinom interpolasi
+Microsoft Excel
+
+Hasil
+Metode berhasil digunakan untuk menghitung pendekatan nilai fungsi secara numerik berdasarkan data yang tersedia dengan hasil yang konvergen dan mendekati nilai sebenarnya.
+
+Tujuan Project
+Memahami konsep interpolasi numerik
+Mengimplementasikan pendekatan nilai fungsi
+Melatih analisis perhitungan numerik
+Menggunakan Excel dalam penyelesaian metode numerik
+
+Insight
+Interpolasi numerik sangat membantu dalam memperkirakan nilai fungsi yang tidak diketahui dari beberapa titik data yang tersedia sehingga dapat digunakan dalam berbagai permasalahan komputasi dan analisis data.
+
+Tools
+Microsoft Excel
+Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik untuk memahami proses pendekatan nilai fungsi menggunakan teknik interpolasi secara sistematis dan aplikatif.
+
+#MetodeNumerik #Interpolasi #Excel #NumericalMethod #DataAnalysis
